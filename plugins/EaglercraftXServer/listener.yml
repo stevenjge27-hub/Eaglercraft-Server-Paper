@@ -1,0 +1,7 @@
+listeners:
+     default:
+       bind: "0.0.0.0:25565"
+       permissions: []
+       allow_eagler_1_5: true
+       allow_eagler_1_8: true
+       allow_eagler_1_12: true
