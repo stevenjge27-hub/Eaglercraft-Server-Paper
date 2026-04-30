@@ -1,4 +1,15 @@
 listeners:
-     default:
-       bind: "0.0.0.0:25565"
-       permissions: []
+  default:
+    bind: "0.0.0.0:25565"
+    permissions: []
+    eagler_players_vanilla_skin: true
+    allow_eagler_1_5: true
+    allow_eagler_1_8: true
+    allow_eagler_1_12: true
+    server_name: "EaglercraftXServer"
+    server_uuid: "e03d1b48-1b0c-4e9e-8b1a-2f3c4d5e6f7a"
+    websocket_settings:
+      allow_protocol_v3: true
+      allow_protocol_v4: true
+      allow_protocol_v5: true
+      max_connections: 50
